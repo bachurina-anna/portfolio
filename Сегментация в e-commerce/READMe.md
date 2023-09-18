@@ -2,7 +2,7 @@
 
 [**ПЕРЕЙТИ К ПРОЕКТУ**](https://github.com/bachurina-anna/portfolio/blob/main/%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20e-commerce/%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
 
-[**Дашборд**](https://public.tableau.com/app/profile/.87026916/viz/-_16939622909670/sheet13)
+[**ДАШБОРД**](https://public.tableau.com/app/profile/.87026916/viz/-_16939622909670/sheet13)
 
 **Описание проекта:**
 Интернет-магазин товаров для дома и быта разрабатывает персонализированную рекламную рассылку для клиентов.
